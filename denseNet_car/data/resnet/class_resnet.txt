@@ -1,0 +1,11 @@
+greenp
+ABS_warning
+Battery_warning
+Engine_warning
+EV_driving_mode_indicator_lamp
+Handbrake_warning
+oil_pressure_low
+Parking_bake_light
+Seat_belt_not_on
+Skid_warning
+Steering_system_indicator_lamp
